@@ -1,5 +1,5 @@
 ---
-title: "[CustomTonWaifu] Le Nord theme et moi"
+title: "[Custom Ta/Ton Waifu] Le Nord theme et moi"
 description: "Froid de canard par ici "
 pubDate: "Jul 26 2023"
 heroImage: "/evanord.jpg"
