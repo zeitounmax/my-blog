@@ -3,6 +3,8 @@ title: "[Dev] Le starterPack pour Windows"
 description: "StarterPackDev"
 pubDate: "Jul 27 2023"
 heroImage: "/vscodeanime.jpg"
+slug: "starterpack-windows"
+
 ---
 
 Voici un petit guide rapide pour installer et utiliser votre environnement pour dévlopper.
