@@ -1,6 +1,6 @@
 ---
 title: "[3615Code my life] Dans ma Bulle"
-description: "Faut avoir sa bulle pour se sentir mieux "
+description: "Viens dans mon univers "
 pubDate: "Oct 21 2023"
 heroImage: "/dream.png"
 slug: "dans-ma-bulle"
